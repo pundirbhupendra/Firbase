@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firbase</string>
+    <array name="game">
+    <item>Cricket</item>
+    <item>Hoky</item>
+    <item>Table Tanies</item>
+    <item>Football </item>
+        <item >Swimming</item>
+</array>
+
+</resources>
